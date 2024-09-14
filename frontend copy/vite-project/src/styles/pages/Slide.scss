@@ -1,0 +1,17 @@
+.slide{
+    width: 90vw;
+    height: 80vh;
+    background-image: url("../../assets/addImage.jpg");
+    background-position: center ;
+    background-size: cover;
+    background-repeat:no-repeat;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    h1{
+        font-size: 30px;
+        text-align: center;
+        color:aqua
+    }
+}
